@@ -1,8 +1,0 @@
-D:\c sharp\PhoneBook_app\PhoneBook_app\bin\Debug\PhoneBook_app.exe.config
-D:\c sharp\PhoneBook_app\PhoneBook_app\bin\Debug\PhoneBook_app.exe
-D:\c sharp\PhoneBook_app\PhoneBook_app\bin\Debug\PhoneBook_app.pdb
-D:\c sharp\PhoneBook_app\PhoneBook_app\obj\Debug\PhoneBook_app.csproj.AssemblyReference.cache
-D:\c sharp\PhoneBook_app\PhoneBook_app\obj\Debug\PhoneBook_app.csproj.SuggestedBindingRedirects.cache
-D:\c sharp\PhoneBook_app\PhoneBook_app\obj\Debug\PhoneBook_app.csproj.CoreCompileInputs.cache
-D:\c sharp\PhoneBook_app\PhoneBook_app\obj\Debug\PhoneBook_app.exe
-D:\c sharp\PhoneBook_app\PhoneBook_app\obj\Debug\PhoneBook_app.pdb
