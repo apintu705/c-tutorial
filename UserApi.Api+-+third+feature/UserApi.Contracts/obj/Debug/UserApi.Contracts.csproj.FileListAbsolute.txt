@@ -1,5 +1,0 @@
-D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\bin\Debug\UserApi.Contracts.dll
-D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\bin\Debug\UserApi.Contracts.pdb
-D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.csprojResolveAssemblyReference.cache
-D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.dll
-D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.pdb
