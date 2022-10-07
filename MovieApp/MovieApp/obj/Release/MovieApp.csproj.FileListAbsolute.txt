@@ -1,0 +1,3 @@
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp\obj\Release\MovieApp.csproj.AssemblyReference.cache
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp\obj\Release\MovieApp.csproj.SuggestedBindingRedirects.cache
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp\obj\Release\MovieApp.csproj.CoreCompileInputs.cache

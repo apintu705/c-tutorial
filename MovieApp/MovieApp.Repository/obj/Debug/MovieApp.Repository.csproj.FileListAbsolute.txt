@@ -1,0 +1,12 @@
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.csproj.AssemblyReference.cache
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.csproj.SuggestedBindingRedirects.cache
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.csproj.CoreCompileInputs.cache
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Repository.exe.config
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Repository.exe
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Repository.pdb
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Domain.exe
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Domain.pdb
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\bin\Debug\MovieApp.Domain.exe.config
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.csproj.CopyComplete
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.exe
+D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Repository\obj\Debug\MovieApp.Repository.pdb

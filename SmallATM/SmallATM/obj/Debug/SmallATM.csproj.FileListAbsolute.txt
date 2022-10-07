@@ -1,0 +1,8 @@
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\bin\Debug\SmallATM.exe.config
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\bin\Debug\SmallATM.exe
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\bin\Debug\SmallATM.pdb
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\obj\Debug\SmallATM.csproj.AssemblyReference.cache
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\obj\Debug\SmallATM.csproj.SuggestedBindingRedirects.cache
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\obj\Debug\SmallATM.csproj.CoreCompileInputs.cache
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\obj\Debug\SmallATM.exe
+D:\c sharp\personal_projectsOnC#\SmallATM\SmallATM\obj\Debug\SmallATM.pdb
