@@ -1,0 +1,12 @@
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\bin\Debug\net6.0\MovieApp.Domain.deps.json
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\bin\Debug\net6.0\MovieApp.Domain.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\bin\Debug\net6.0\MovieApp.Domain.pdb
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.csproj.AssemblyReference.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfoInputs.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.AssemblyInfo.cs
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.csproj.CoreCompileInputs.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\refint\MovieApp.Domain.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\MovieApp.Domain.pdb
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Domain\obj\Debug\net6.0\ref\MovieApp.Domain.dll

@@ -1,0 +1,11 @@
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\bin\Debug\BddAssignment3.exe.config
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\bin\Debug\BddAssignment3.exe
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\bin\Debug\BddAssignment3.pdb
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\bin\Debug\ConsoleTables.dll
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\bin\Debug\ConsoleTables.pdb
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.csproj.AssemblyReference.cache
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.csproj.SuggestedBindingRedirects.cache
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.csproj.CoreCompileInputs.cache
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.csproj.CopyComplete
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.exe
+D:\deltax\bootcamp_deltax\c#\BddAssignment3\BddAssignment3\obj\Debug\BddAssignment3.pdb

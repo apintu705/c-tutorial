@@ -1,0 +1,15 @@
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\bin\Debug\net6.0\MovieApp.Repository.deps.json
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\bin\Debug\net6.0\MovieApp.Repository.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\bin\Debug\net6.0\MovieApp.Repository.pdb
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\bin\Debug\net6.0\MovieApp.Domain.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\bin\Debug\net6.0\MovieApp.Domain.pdb
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.AssemblyReference.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfoInputs.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfo.cs
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CoreCompileInputs.cache
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CopyComplete
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\refint\MovieApp.Repository.dll
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\MovieApp.Repository.pdb
+D:\deltax\bootcamp_deltax\BDD\MovieApp\Repository\obj\Debug\net6.0\ref\MovieApp.Repository.dll

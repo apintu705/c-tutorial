@@ -1,8 +1,0 @@
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\obj\Debug\MovieApp.Domain.csproj.AssemblyReference.cache
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\obj\Debug\MovieApp.Domain.csproj.SuggestedBindingRedirects.cache
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\obj\Debug\MovieApp.Domain.csproj.CoreCompileInputs.cache
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\bin\Debug\MovieApp.Domain.exe.config
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\bin\Debug\MovieApp.Domain.exe
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\bin\Debug\MovieApp.Domain.pdb
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\obj\Debug\MovieApp.Domain.exe
-D:\c#sharp\personal_projectsOnC#\MovieApp\MovieApp.Domain\obj\Debug\MovieApp.Domain.pdb

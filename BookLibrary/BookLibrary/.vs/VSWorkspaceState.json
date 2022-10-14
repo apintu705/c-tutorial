@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BookLibary.Tests"
+    "\\BookLibrary",
+    "\\BookLibrary.Repository",
+    "\\BookLibrary\\Services"
   ],
-  "SelectedNode": "\\BookLibrary.sln",
+  "SelectedNode": "\\BookLibrary.Repository\\BookRepository.cs",
   "PreviewInSolutionExplorer": false
 }
