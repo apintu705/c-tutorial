@@ -1,0 +1,15 @@
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.csproj.AssemblyReference.cache
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.AssemblyInfoInputs.cache
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.AssemblyInfo.cs
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.csproj.CoreCompileInputs.cache
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\bin\Debug\net6.0\PracticeLinq.exe
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\bin\Debug\net6.0\PracticeLinq.deps.json
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\bin\Debug\net6.0\PracticeLinq.runtimeconfig.json
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\bin\Debug\net6.0\PracticeLinq.dll
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\bin\Debug\net6.0\PracticeLinq.pdb
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.dll
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\refint\PracticeLinq.dll
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.pdb
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\PracticeLinq.genruntimeconfig.cache
+D:\c#sharp\personal_projects\PracticeLinq\PracticeLinq\obj\Debug\net6.0\ref\PracticeLinq.dll
